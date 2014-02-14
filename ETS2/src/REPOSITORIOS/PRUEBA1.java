@@ -6,7 +6,7 @@ public class PRUEBA1 {
 		
 		
 		
-		System.out.println("caca");
+	
 
 	}
 
